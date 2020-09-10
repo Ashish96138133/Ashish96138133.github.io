@@ -1,0 +1,34 @@
+body
+{
+	background-color: yellow;
+}
+
+.oyo1
+{
+	background-color:blue;
+	margin-bottom: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	border:black solid 2px;
+	padding: 2px;
+}
+@media(min-width:766px)
+{
+	.fuck
+	{
+		display:none;
+	}
+}
+.one
+{
+	background-color: red;
+	
+	border:white 2px;
+}
+.fok
+{	
+	width:33%;
+	position: relative;
+	left: 37%;
+	
+}
